@@ -32,5 +32,5 @@ Program Kasir Camping JavaFX adalah aplikasi sederhana untuk membantu manajemen 
 
 Kami mengundang kontribusi dari para pengembang untuk meningkatkan fitur, memperbaiki bug, atau menyusun dokumentasi tambahan. Silakan buat _pull request_ dengan perubahan yang diusulkan.
 
-### Kontak
+### Penutup
 Terima kasih telah menggunakan Program Kasir Camping JavaFX! Semoga membantu kelancaran operasi bisnis Anda.
